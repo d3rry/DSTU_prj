@@ -1,7 +1,8 @@
 # DSTU_prj
 Cоздать:
 
-1.html - страницу – landing-page с описанием парка ДГТУ и переходом на карту местности (использовать bootstrap (https://getbootstrap.com/)).
+1. html - страницу – landing-page с описанием парка ДГТУ и переходом на карту местности (использовать bootstrap (https://getbootstrap.com/)).
+
 2. html страницу  c картой парка ДГТУ. (http://leafletjs.com/examples.html)
 	- карта шириной 100% и высотой 100%
 	- картографическая основа — openstreetmap
